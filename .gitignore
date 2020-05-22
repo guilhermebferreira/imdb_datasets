@@ -1,0 +1,6 @@
+venv
+.idea
+
+data/title.akas.tsv
+data/title.ratings.tsv
+data/title.basics.tsv
